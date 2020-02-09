@@ -1,2 +1,4 @@
 # decks
-Open sourcing some presentations
+Open sourcing various presentations for re-use.
+
+- What's new in Python 3.8 (PPTx)
